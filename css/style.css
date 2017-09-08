@@ -1,0 +1,22 @@
+h1 {
+  margin: 0;
+}
+
+.content {
+  background: yellow;
+  height: 250px;
+}
+
+#parallax {
+  background: green;
+  background: url("http://www.verticalworld.net/school/programs/uploads/pics/program_108_1.jpg");
+  height: 200px;
+  background-position: 0px 200px;
+}
+
+#parallax-my {
+  background: green;
+  background: url("../img/image.jpg");
+  height: 400px;
+  background-position: 0px 400px;
+}
